@@ -1,4 +1,4 @@
-# flock_off 🪿✈️
+# flock_off 🪿
 
 A silly fighter jet game where you pilot through an endless sky full of Canada's most fearless birds. Avoid the geese. They will not avoid you.
 
@@ -19,5 +19,6 @@ Built in Unity using imported 3D assets — a fighter jet model (Raptor3D), goos
 - `planeHealth.cs` — tracks and manages player health
 - `gooseEnemy.cs` — controls goose behaviour and spawning
 
+video demo coming soon
 
 <img width="1596" height="1010" alt="image" src="https://github.com/user-attachments/assets/34ae652d-f304-48e7-94ae-457c8eb1d362" />
